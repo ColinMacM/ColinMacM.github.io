@@ -5,7 +5,7 @@
 ### What do I do? 
 
 [My Videos](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="channels4_profile.jpg?raw=true"/>
 
 ---
 <a href="/Untitled%20presentation.pdf">For Hiring Managers</a>
