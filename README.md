@@ -1,51 +1,24 @@
-## Developer Portfolio Landing Page Template
 
-### Introduction
+## Website Description:
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+"My personal website, accessible at colinmacm.github.io, serves as a dynamic portfolio and platform for showcasing my software engineering skills, projects, and achievements. It provides a comprehensive view of my technical expertise and highlights my commitment to innovation and problem-solving in the field of software engineering.
 
-<img src="images/demo.gif?raw=true"/>
+Key features of my website include:
 
-### Installation
+Portfolio: Browse through a curated selection of my software development projects, demonstrating proficiency in languages such as Java and C++. Each project is accompanied by a brief description, showcasing my problem-solving abilities and coding prowess.
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+Skills Showcase: Explore my technical skills in software development, including proficiency in various programming languages, development tools, and frameworks. This section serves as a quick reference for potential employers to gauge my technical capabilities.
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+Blog: Stay updated with my latest insights, experiences, and thoughts on software engineering trends and practices. The blog section reflects my dedication to continuous learning and staying informed about industry developments.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Contact Information: Connect with me easily via the contact details provided on the website, including my email address and LinkedIn profile. I welcome inquiries about potential collaborations, job opportunities, or discussions related to software engineering.
 
-### Markdown
+GitHub Integration: For a deeper dive into my coding skills and project contributions, you can access my GitHub repository directly from the website. This integration provides a comprehensive view of my coding style, version control proficiency, and open-source contributions.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My website is designed to convey my passion for software engineering and my commitment to excellence in this field. It serves as a valuable resource for prospective employers and collaborators to get to know me better and assess my suitability for software engineering roles."
 
-```markdown
-Syntax highlighted code block
+This description highlights the key elements of your website that would be of interest to potential employers in the software engineering field.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
