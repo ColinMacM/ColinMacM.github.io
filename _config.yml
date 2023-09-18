@@ -1,13 +1,17 @@
-title: John Doe # your name (or website title) here
+title: Colin MacMillan
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>Funny, Amazing, Incredible, Genius, Humble. <br>
+  <br> These are only just a few words to describe Colin MacMillan. <br>
   Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <br>Started out in Weston, the 6ix,<br>
+  <br>Now is a mechatronics engineer at <br>
+  <br>the university of Waterloo, where he meets<br>
+  <br>"so many cool dudes"<br>
+  <a href="www.linkedin.com/in/colin-macmillan-752124290">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-000000-0 #G-9QL80ZZGB4
