@@ -12,8 +12,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](https://frc-events.firstinspires.org/2020/team/919/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[My Robotics Team](https://frc-events.firstinspires.org/2020/team/919/)
+<img src="919.jpg?raw=true"/>
 
 ---
 
