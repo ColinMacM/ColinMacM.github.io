@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[For Hiring Managers](/Untitled presentation.pdf)
+<a href="/Untitled%20presentation.pdf">For Hiring Managers</a>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
