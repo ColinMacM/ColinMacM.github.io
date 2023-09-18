@@ -9,7 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Now is a mechatronics engineer at 
   the university of Waterloo, where he meets
   "so many cool dudes"
-  <a href="www.linkedin.com/in/colin-macmillan-752124290">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/colin-macmillan-752124290">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
