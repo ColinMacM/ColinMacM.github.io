@@ -9,7 +9,7 @@
 
 ---
 <a href="/Untitled%20presentation.pdf">For Hiring Managers</a>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="flat,750x,075,f-pad,750x1000,f8f8f8.u10.jpg?raw=true"/>
 
 ---
 [My Robotics Team](https://frc-events.firstinspires.org/2020/team/919/)
