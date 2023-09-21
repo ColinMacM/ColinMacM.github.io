@@ -6,7 +6,7 @@
 
 **Project description:** During my high school years, I undertook a comprehensive project centered around the exploration of compasses and their fascinating principles. This project provided a profound opportunity to delve into the science and functionality of compasses, shedding light on their historical significance and contemporary applications.
 
-<a href="https://youtu.be/nkanU7qZHlE" target="_blank">Visit See my other physics video!</a>
+<a href="https://youtu.be/nkanU7qZHlE" target="_blank">See my other physics video!</a>
 
 **Project description:** Pendant mes années au lycée, j'ai entrepris un projet approfondi consacré à l'étude de Ganymède. Ce projet a été mené en français, ajoutant une dimension linguistique et culturelle enrichissante à mon exploration spatiale.
 
@@ -104,7 +104,7 @@ int main() {
             char symbol = 'X';
             board[row - 1][col - 1] = symbol;
         } else {
-            cout << "NYEHEHEHE MY TURN!!!" << endl;
+            cout << "My Turn!" << endl;
             computerMove(board);
         }
 
@@ -112,10 +112,10 @@ int main() {
         printBoard(board);
 
         if (checkWin(board, 'X')) {
-            cout << "shucks, you win!" << endl;
+            cout << "You win!" << endl;
             break;
         } else if (checkWin(board, 'O')) {
-            cout << "HAHAHA i won!!!!11!!!" << endl;
+            cout << "I won!" << endl;
             break;
         }
 
