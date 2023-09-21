@@ -1,14 +1,11 @@
 title: Colin MacMillan
-logo: "Screenshot_20221108-205837_Gmail (1).jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-Description:
-<em>Colin MacMillan is a dedicated and accomplished student with a strong foundation in Java and C++. </em>
-With a track record of successfully tackling complex coding challenges and optimizing software performance, Colin's technical proficiency is matched only by his passion for problem-solving.
-As the former President of the FIRST Robotics Club, he demonstrated exceptional leadership, overseeing multifaceted projects, from coding robots to creating CAD drawings.
-Now is a Mechatronics Engineer at Waterloo.
-  <a href="https://www.linkedin.com/in/colin-macmillan-752124290">View My LinkedIn Profile</a> 
-  
+logo: "Screenshot_20221108-205837_Gmail (1).jpg?raw=true"
+description: >
+  Colin MacMillan is a dedicated and accomplished student with a strong foundation in Java and C++. 
+  With a track record of successfully tackling complex coding challenges and optimizing software performance, Colin's technical proficiency is matched only by his passion for problem-solving.
+  As the former President of the FIRST Robotics Club, he demonstrated exceptional leadership, overseeing multifaceted projects, from coding robots to creating CAD drawings.
+  Now a Mechatronics Engineer at Waterloo. [View My LinkedIn Profile](https://www.linkedin.com/in/colin-macmillan-752124290)
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 google_analytics: UA-000000-0 #G-9QL80ZZGB4
