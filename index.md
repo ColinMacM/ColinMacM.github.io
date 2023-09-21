@@ -9,7 +9,7 @@
 
 ---
 <a href="/ColinCV3.pdf">For Hiring Managers</a>
-<img src="flat,750x,075,f-pad,750x1000,f8f8f8.u10.jpg?raw=true"/>
+<img src="business-professional-dress-code-men-style-luxe-digital.jpg?raw=true"/>
 
 ---
 [My Robotics Team](https://frc-events.firstinspires.org/2020/team/919/)
